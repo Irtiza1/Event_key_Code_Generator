@@ -1,5 +1,6 @@
 # Event_key_Code_Generator
 **A tool for generating event key codes for keyboard interactions in web applications.**
+![eventkeycode](https://github.com/user-attachments/assets/c03ab22f-264f-4b31-8996-ad8b1af895ca)
 
 ## Table of Contents
 - [Introduction](#introduction)
