@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Event KeyCodes</title>
+    <link rel="stylesheet" type="text/css" href="../styles.css" />
+    <style>
+      body {
+        background-color: #0a0a0a; /* Dark black background */
+        color: #33ff33; /* Bright green for text */
+        font-family: "Courier New", Courier, monospace; /* Monospace font for hacker feel */
+      }
+      table,
+      th,
+      td {
+        border: 1px solid #00ff00; /* Neon green for table borders */
+        color: #d1d1d1; /* Light gray for table text */
+        width: 80%; /* Set table width to 80% of the viewport */
+        margin: 20px auto; /* Center the table */
+        padding: 10px; /* Increase cell padding */
+      }
+      th, td {
+        padding: 15px; /* Increase padding for better readability */
+        text-align: center;
+      }
+      .project {
+        background-color: #0a0a0a; /* Matches body background */
+        color: #33ff33;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100vh;
+        flex-direction: column;
+      }
+
+      h1 {
+        margin: 0;
+        color: #00ff00; /* Bright neon green for heading */
+        font-size: 3rem; /* Larger text size for emphasis */
+      }
+
+      .key {
+        font-size: 1.5rem; /* Increase font size for key display */
+        color: #33ff33;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="project">
+      <h1>Event Key Code Generator</h1><br><br>
+      <div id="insert">
+        <div class="key">Press the key and watch magic</div>
+      </div>
+    </div>
+
+    <script src="proj3.js"></script>
+  </body>
+</html>
+
