@@ -5,8 +5,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 [LINK](https://rawcdn.githack.com/Irtiza1/Event_key_Code_Generator/d527d869a94e47b99215d07776fb9533ecf96442/EventKeyCodes/Project3.html)
 ## Introduction
